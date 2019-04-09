@@ -1,0 +1,114 @@
+@charset "utf-8";
+/**== Font Roboto ==**/
+@font-face{
+	font-family: "RobotoRegular"; 
+	src: url(../fonts/Roboto/RobotoRegular/RobotoRegular.eot); 
+	src: url("../fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Roboto/RobotoRegular/RobotoRegular.woff") format("woff"), 
+	url("../fonts/Roboto/RobotoRegular/RobotoRegular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "RobotoLight"; 
+	src: url(../fonts/Roboto/RobotoLight/RobotoLight.eot); 
+	src: url("../fonts/Roboto/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Roboto/RobotoLight/RobotoLight.woff") format("woff"), 
+	url("../fonts/Roboto/RobotoLight/RobotoLight.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "RobotoBold"; 
+	src: url(../fonts/Roboto/RobotoBold/RobotoBold.eot); 
+	src: url("../fonts/Roboto/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Roboto/RobotoBold/RobotoBold.woff") format("woff"), 
+	url(../fonts/Roboto/RobotoBold/RobotoBold.ttf) format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+/**== Font Raleway ==**/
+@font-face{
+	font-family: "RalewayRegular"; 
+	src: url(../fonts/Raleway/RalewayRegular/RalewayRegular.eot); 
+	src: url("../fonts/Raleway/RobotoBold/RalewayRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Raleway/RalewayRegular/RalewayRegular.woff") format("woff"), 
+	url("../fonts/Raleway/RalewayRegular/RalewayRegular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "RalewayMedium"; 
+	src: url(../fonts/Raleway/RalewayMedium/RalewayMedium.eot); 
+	src: url("../fonts/Raleway/RalewayMedium/RalewayMedium.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Raleway/RalewayMedium/RalewayMedium.woff") format("woff"), 
+	url("../fonts/Raleway/RalewayMedium/RalewayMedium.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "RalewayBold"; 
+	src: url(../fonts/Raleway/RalewayBold/RalewayBold.eot); 
+	src: url("../fonts/Raleway/RalewayBold/RalewayBold.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Raleway/RalewayBold/RalewayBold.woff") format("woff"), 
+	url("../fonts/Raleway/RalewayBold/RalewayBold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+/**== Font OpenSans ==**/
+@font-face{
+	font-family: "OpenSansRegular"; 
+	src: url(../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot); 
+	src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.woff") format("woff"), 
+	url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "OpenSansLight"; 
+	src: url(../fonts/OpenSans/OpenSansLight/OpenSansLight.eot); 
+	src: url("../fonts/OpenSans/OpenSansLight/OpenSansLight.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/OpenSans/OpenSansLight/OpenSansLight.woff") format("woff"), 
+	url("../fonts/OpenSans/OpenSansLight/OpenSansLight.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "OpenSansBold";
+	src: url(../fonts/OpenSans/OpenSansBold/OpenSansBold.eot); 
+	src: url("../fonts/OpenSans/OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/OpenSans/OpenSansBold/OpenSansBold.woff") format("woff"), 
+	url("../fonts/OpenSans/OpenSansBold/OpenSansBold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+/**== Font AnonymousPro ==**/
+@font-face{
+	font-family: "AnonymousProRegular"; 
+	src: url(../fonts/AnonymousPro/AnonymousProRegular/AnonymousProRegular.eot); 
+	src: url("../fonts/AnonymousPro/AnonymousProRegular/AnonymousProRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/AnonymousPro/AnonymousProRegular/AnonymousProRegular.woff") format("woff"), 
+	url("../fonts/AnonymousPro/AnonymousProRegular/AnonymousProRegular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+@font-face{
+	font-family: "AnonymousProBold"; 
+	src: url(../fonts/AnonymousPro/AnonymousProBold/AnonymousProBold.eot); 
+	src: url("../fonts/AnonymousPro/AnonymousProBold/AnonymousProBold.eot?#iefix") format("embedded-opentype"),
+	url(../fonts/AnonymousPro/AnonymousProBold/AnonymousProBold.woff) format("woff"), 
+	url("../fonts/AnonymousPro/AnonymousProBold/AnonymousProBold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
+/**== Font Forum ==**/
+@font-face{
+	font-family: "ForumRegular"; 
+	src: url(../fonts/Forum/ForumRegular.eot); 
+	src: url("../fonts/Forum/ForumRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Forum/ForumRegular.woff") format("woff"), 
+	url("../fonts/Forum/ForumRegular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+}
